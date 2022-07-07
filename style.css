@@ -1,0 +1,148 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.header{
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+}
+.header-item{
+    text-align: center;
+    color: white;
+    width: 60%;
+    padding: 15% 20%;
+}
+h1{
+    font-size: 50px;
+    /*margin-bottom: -20px;*/
+}
+.first-h1{
+    margin: -50px;
+}
+p{
+    padding-bottom: 15px;
+}
+.button{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;   
+}
+h2{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0px;
+}
+/*.donate{
+    margin: 20px 0;
+}*/
+.donate-section{
+    text-align: center;
+    color: white;
+    width: 60%;
+    padding: 5% 20%;
+}
+.donate-item{
+    color: gray;
+}
+ul{
+    color: gray;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    list-style-type: none;
+}
+li{
+    width: 20%;
+    background-color: rgba(248, 242, 242, 0.973);
+    margin: 10px;
+    padding: 20px 10px;
+}
+.list-item{
+    border: 4px solid #ff5959;
+    color: #ff5959;
+}
+label{
+    color: gray;
+}
+.input{
+    width: 100%;
+    color: rgb(46, 41, 41);
+    display: block;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 60px;
+    padding: 10px;
+}
+.flexible{
+    display: flex;
+    margin: 0 10%;
+}
+.plan-item{
+    width: 50%;
+    margin-right: 5%;
+    padding: 15px;
+}
+#item1{
+    background-color: #edf5f6;
+}
+#item2{
+    background-color: #ffeeee;
+}
+#item3{
+    background-color: #fff4d6;
+}
+.icon{
+    font-size: 50px;
+}
+.iconh4{
+    font-size: 25px;
+}
+.iconp{
+    color: gray;
+}
+
+.image{
+    display: inline-block;
+    padding: 0 10%;
+}
+img{
+    width: 33%;
+    height: 200px;
+
+}
+
+.area{
+    width: 60%;
+    margin: 0 15%;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: bisque;
+    text-align: center;
+
+}
+#email{
+    width: 50%;
+    padding: 10px;
+}
+#submit{
+    width: 30%;
+    padding: 10px;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+}
+h3{
+    color: #ff5959;
+    font-size: 18px;
+}
+.ft-p{
+    font-size: 12px;
+}
